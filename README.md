@@ -41,3 +41,15 @@
 
 ## Why does Big Data need scalable storage and uses distributed servers together as a cluster?
 - https://phoenixnap.com/kb/big-data-server
+
+## List characteristics of master-slave distribution model.
+- https://www.ques10.com/p/2826/explain-master-slave-vs-peer-to-peer-distributio-1/
+
+## List the benefits of peer-to-peer nodes data distribution model.
+- https://flevy.com/blog/advantages-and-disadvantages-of-a-peer-to-peer-network/
+
+
+## What are the activities which Mahout supports in the Hadoop system?
+* Feature of Mahout
+	- https://www.tutorialspoint.com/mahout/mahout_quick_guide.htm
+
