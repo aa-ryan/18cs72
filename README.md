@@ -34,10 +34,10 @@
 	- https://data-flair.training/blogs/data-definition-command-cql/
 
 ## Show MapReduce process diagrammatically to depict a client submitting a job, the workflow  ofJobTracker and TaskTracker, and TaskTrackers creating the outputs.
-	- https://www.tutorialscampus.com/map-reduce/job-execution-process.html/
+- https://www.tutorialscampus.com/map-reduce/job-execution-process.html/
 
 ## List characteristics of NoSQL data store.
-	- https://www.datastax.com/blog/5-features-look-nosql-database
+- https://www.datastax.com/blog/5-features-look-nosql-database
 
 ## Why does Big Data need scalable storage and uses distributed servers together as a cluster?
-	- https://phoenixnap.com/kb/big-data-server
+- https://phoenixnap.com/kb/big-data-server
